@@ -27,7 +27,7 @@ Who can make this: Kristen, May, Caitlin
 
 ### Instructions 1xTBE: 1:9 
 1.) Make sure the 10x stock is in solution and doesn't have percipitates swirling around, if it does, put it on a heat/stir plate until its all in solution  
-2.) Fill graduated cylinder to 100mL with 10xTBE  
-3.) Fill graduated cylinder rest of the way to 1000mL with distilled water   
+2.) Fill graduated cylinder to **100mL with 10xTBE**  
+3.) Fill graduated cylinder rest of the way **(900mL)** to 1000mL with **distilled water**   
 4.) Pour into carboy and repeat steps 2-4 until carboy is full or you're out of 10xTBE  
 
