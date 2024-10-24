@@ -8,7 +8,7 @@ Who can make this: Kristen, May, Caitlin
 - heat/stir plate
 - Tris Base [dry](bucket next to fume hood)  
 - Boric Acid [dry](chem shelf)  
-- 1M EDTA [liq](fridge)
+- 1M EDTA [liq](fridge )
 - distilled water *not molecular grade water because that is $$$ and we only use TBE for running gels.
   
 ### Instructions 10x TBE:
